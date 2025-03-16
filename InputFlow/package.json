@@ -1,0 +1,19 @@
+{
+  "name": "inputflow",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Sparsh Gupta",
+  "license": "ISC",
+  "description": "InputFlow is a learning project that serves you to create form and publish them.",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

@@ -1,0 +1,16 @@
+@import url(InputFlow-primary.css);
+
+.hero{
+    gap: 25px;
+}
+
+.error-header{
+    font-size: 2.3rem;
+    color: var(--green-color-1);
+    font-weight: 500;
+}
+
+.error-content{
+    font-size: 1.7rem;
+    color: var(--green-color-3);
+}
